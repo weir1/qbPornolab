@@ -6,8 +6,8 @@
 
 # Replace YOUR_USERNAME_HERE and YOUR_PASSWORD_HERE with your Pornolab username and password
 credentials = {
-    'login_username': 'imbest',
-    'login_password': 'maushi1230',
+    'login_username': '',
+    'login_password': '',
 }
 
 # Logging
